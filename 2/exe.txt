@@ -1,0 +1,2 @@
+gcc experiemnt.c -o experiemnt -lregex
+.\experiemnt

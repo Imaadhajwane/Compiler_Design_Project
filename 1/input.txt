@@ -1,0 +1,59 @@
+message MessageType1 {
+    field Field1: int;
+    field Field2: string;
+}
+
+message MessageType2 {
+    field Field3: float;
+    field Field4: int;
+    field Field5: string;
+}
+
+
+struct DataStructure1 {
+    field Field6: float;
+    field Field7: int;
+}
+
+struct DataStructure2 {
+    field Field8: string;
+    field Field9: int;
+}
+
+header HeaderType1 {
+    field HeaderField1: int;
+}
+
+header HeaderType2 {
+    field HeaderField2: string;
+}
+
+message MessageType3 {
+    field Field10: int;
+    field Field11: string;
+    field Field12: float;
+}
+
+struct DataStructure3 {
+    field Field13: float;
+    field Field14: string;
+}
+
+header HeaderType3 {
+    field HeaderField3: int;
+}
+
+message MessageType4 {
+    field Field15: int;
+    field Field16: string;
+    field Field17: float;
+}
+
+struct DataStructure4 {
+    field Field18: float;
+    field Field19: string;
+}
+
+header HeaderType4 {
+    field HeaderField4: int;
+}

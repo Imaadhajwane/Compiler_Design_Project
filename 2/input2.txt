@@ -1,0 +1,10 @@
+Protocol MyProtocol {
+    REQUEST RequestMessage {
+        INT requestId;
+        STRING requestData;
+    }
+    RESPONSE ResponseMessage {
+        BOOL success;
+        STRING responseData;
+    }
+}

@@ -1,0 +1,7 @@
+Protocol ::= ProtocolName '{' Message* '}'
+ProtocolName ::= Identifier
+Message ::= MessageType Identifier '{' Field* '}'
+MessageType ::= 'REQUEST' | 'RESPONSE'
+Field ::= FieldType Identifier ';'
+FieldType ::= 'INT' | 'STRING' | 'BOOL'
+Identifier ::= [a-zA-Z][a-zA-Z0-9_]*

@@ -1,0 +1,13 @@
+
+Tokenization: Your code successfully tokenizes input files, 
+recognizing keywords (message, struct, header, field) 
+as well as identifiers, types, semicolons, braces, and colons.
+
+Line Numbers: Your code correctly tracks line numbers and updates them for multi-line tokens 
+such as braces, semicolons, and colons.
+
+Print Function: The printToken function nicely formats token information 
+including the token's line number, value, and type.
+
+Error Handling: Your code includes basic error handling for 
+file opening and unknown tokens, which is a good practice.
