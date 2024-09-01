@@ -28,14 +28,14 @@
 <p>
     To clone the repository, use the following command:
 </p>
-<pre><code>git clone https://github.com/YourUsername/YourRepositoryName.git</code></pre>
+<pre><code>git clone https://github.com/Imaadhajwane/Compiler_Design_Project.git</code></pre>
 
 <h2>Run the Files</h2>
 <p>
     After cloning the repository, navigate to the respective folders to run the files. Here are the steps for each folder:
 </p>
 <ol>
-    <li><strong>Folder 1:</strong> Navigate to this folder and run the lexical analyzer program.</li>
-    <li><strong>Folder 2:</strong> Navigate to this folder and run the syntax and semantic analyzer program. The input file for this step is the output from Folder 1.</li>
-    <li><strong>Folder 3:</strong> Navigate to this folder and run the intermediate code generator and optimizer. The input file for this step is the output from Folder 2.</li>
+    <li><strong>Folder 1:</strong> Navigate to this folder and run the "try.c".</li>
+    <li><strong>Folder 2:</strong> Navigate to this folder and run the "experiemnt.c". The input file for this step is the output from Folder 1.</li>
+    <li><strong>Folder 3:</strong> Navigate to this folder and run the "experiemnt3.c". The input file for this step is the output from Folder 2.</li>
 </ol>
