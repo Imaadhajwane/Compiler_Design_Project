@@ -2,7 +2,7 @@
 
 <h2>Project Overview</h2>
 <p>
-    This project focuses on designing and developing a compiler for a Protocol Specification Language (PSL). The compiler is divided into three main components:
+    This project focuses on designing and developing a compiler for a Protocol Specification Language (PSL).  The compiler is divided into three main components:
 </p>
 <ol>
     <li><strong>Lexical Analyzer:</strong> Identifies components of the protocol specification, such as message types, fields, data structures, headers, and other relevant details.</li>
